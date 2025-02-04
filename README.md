@@ -1,4 +1,4 @@
-Anleitung zur Öffnunf der GitHub-Repository in UiPath.
+Anleitung zur Öffnung der GitHub-Repository in UiPath.
 
 1. Repository-URL kopieren
 URL kopieren: Klicken Sie auf den „Code“-Button in Ihrem GitHub-Repository und kopieren Sie die HTTPS- oder SSH-URL.
