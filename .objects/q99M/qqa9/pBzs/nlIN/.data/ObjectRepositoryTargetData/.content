@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="apnXJMse3EO_L_x2JDvFDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="moodle2.uni-potsdam.de/course/view.php" CVScreenId="c3721aeb-aed8-4d02-b3d6-3c4aeed12a7d" CvTextArea="1718, 548, 110, 18" CvTextArgument="Alles aufklappen" CvType="Text" DesignTimeRectangle="1720, 543, 108, 29" DesignTimeScaleFactor="1.03125" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Alles aufklappen' parentid='collapsesections' tag='SPAN' type='' class='expandall text-nowrap' check:innerText='Alles aufklappen' /&gt;" Guid="44d9e38a-475f-4413-ab44-6741e64bea08" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Kurs: Testkurs: Robotic Process Automation | Moodle.UP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a39e4c23543d9ec9e431306622ee6e8e.png" xmlns="">0UiUj6qBxc0esJAdK5Wi80g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
